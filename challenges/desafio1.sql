@@ -144,7 +144,7 @@ INSERT INTO User (name, age, id_Plan, subscribe)
 
   INSERT INTO History (id_User, id_Songs, date_Reproduction)
     VALUES
-      (1, 1, '2022-02-28 10:45:55'),
+      (1, 8, '2022-02-28 10:45:55'),
       (1, 2, '2020-05-02 05:30:35'),
       (1, 10, '2020-03-06 11:22:33'),
       (2, 10, '2022-08-05 08:05:17'),
