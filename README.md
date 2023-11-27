@@ -1,10 +1,14 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+👨🏼‍💻 Task
+- Normalize the Spotify database table to 1NF, 2NF, and 3NF;
+- Create a relational database called SpotifyClone;
+- Create the normalized tables and add them to the created database;
+- Write multiple queries to extract specific information;
+
+📝 Features
+- MySQL database manipulation - SpotifyClone;
+- Searching and filtering using aggregation functions, Group By, conditionals, and date manipulation;
+- Manipulating multiple tables with INNER JOIN;
+
+💡 Technologies Used
+- MySQL
+- Docker
